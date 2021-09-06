@@ -105,25 +105,34 @@ formulate need-to-haves and nice-to-haves
 
 ### Need-to-haves:
 - Use of itiner-e.org domain name
+    - access / ownership
 - Long-term stability of resource
+    - funding  
 - Stable URI’s for entities
+    - url/uuid?
 - Places linkable to Pleiades URI’s
-- Online database with road segments as core entities
+    - access
+- Online database with road segments as core entities 
 - Hosted on secure backed up space accessible by project collaborators only
-- Read/write access by project members
-- Ability to upload shapefiles in which rows represent road segments
+    - funding 
+- Read/write access by project members 
+- Ability to upload shapefiles in which rows represent road segmentsx
+    - private encoding. decoder?
 - Automatic mapping of attributes of road segments to relevant fields in database
+    - geolocation mapper?
 - Visualisation of road segments in database on webmap
+    - webmap? project between map geometries. geometry translation map?
 - Map-based query of data to select, visualize, export subsets
 - Avoid need for additional steps when uploading data collected offline to online data management platform
+    - data models?
 - Map-based, text-based and field-based query of data.
 - Export of subsets in spatial and tabular formats.
 
 ### Nice-to-haves:
 - Canonical network that can be querried (i.e. route planner)
 - Transformation of subsets into graph data
+    - subset data models?
 - Exciting interactive GUI
-
 
 d)	outcome and ultimate goal
 
