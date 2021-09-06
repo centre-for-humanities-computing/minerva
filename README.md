@@ -18,10 +18,10 @@ Our short-term urgent basic requirements for autumn 2021:
 
 Our ideal longer-term desirables are different, see c-d.
 
-__Supplementary information:__
-a)	Current [itiner-e database](http://itiner-e.org/index.php/crud/routes)
-b)	ER diagram of current database (not representative of current minimum short-term desirables): ‘ER.png’
-c)	Sample shapefile of road segments from Gallia (France): ‘Gallia3.zip’
+__Supplementary information:__  
+a)	Current [itiner-e database](http://itiner-e.org/index.php/crud/routes)  
+b)	ER diagram of current database (not representative of current minimum short-term desirables): ‘ER.png’  
+c)	Sample shapefile of road segments from Gallia (France): ‘Gallia3.zip’  
 
 __Relevant other projects:__
 - Pleiades: this is a gazetteer with placenames with stable URI’s per placename. Our project’s minimum final requirement is comparable: an open online database with stable [URI’s for its entities](https://pleiades.stoa.org)
