@@ -106,18 +106,23 @@ formulate need-to-haves and nice-to-haves
 ### Need-to-haves:
 - Use of itiner-e.org domain name
     - access / ownership
+      - AU IT
 - Long-term stability of resource
-    - funding  
+    - funding 
 - Stable URI’s for entities
     - url/uuid?
 - Places linkable to Pleiades URI’s
-    - access
+    - access to create new ones?
+      - low priority
 - Online database with road segments as core entities 
 - Hosted on secure backed up space accessible by project collaborators only
     - funding 
 - Read/write access by project members 
 - Ability to upload shapefiles in which rows represent road segmentsx
     - private encoding. decoder?
+      - can be exported into other formats (geo-json)
+      - geometry: points only, offset start, offset end
+        - semantic attributes
 - Automatic mapping of attributes of road segments to relevant fields in database
     - geolocation mapper?
 - Visualisation of road segments in database on webmap
